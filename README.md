@@ -1,3 +1,3 @@
-TLM (Transmission-line matrix method) 2D method MATLab implementation for a waveguide
+TLM (Transmission-line matrix method) 2D MATLab implementation for a waveguide
 
 Author:  Vinícius Pletsch
