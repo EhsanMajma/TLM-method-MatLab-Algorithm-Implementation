@@ -1,1 +1,2 @@
-Implementação modelo TLM 2D série para um guia de onda retangular oco 
+%%%  TLM 2D method MATLab implementation for a waveguide
+%%%  Author:  Vinícius Pletsch
